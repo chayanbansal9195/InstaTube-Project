@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="back.xsl"?>
+<class>
+<user id = "1"> 
+	<name>Chayan</name>
+	<email>cx@g.com</email>
+	<mobile>4432445452</mobile>
+	<country>India</country>
+	<gender>male</gender>
+	<hobbies>sports,movies</hobbies>
+</user>
+<user id = "2"> 
+	<name>Kunal</name>
+	<email>cs4221@srmist.edu.in</email>
+	<mobile>8812960543</mobile>
+	<country>India</country>
+	<gender>male</gender>
+	<hobbies>sports,movies,music</hobbies>
+</user>
+<user id = "3"> 
+	<name>John</name>
+	<email>johndoe@gmail.com</email>
+	<mobile>9845646251</mobile>
+	<country>United States</country>
+	<gender>male</gender>
+	<hobbies>movies,music</hobbies>
+</user>
+<user id = "4"> 
+	<name>Allen</name>
+	<email>Alle@yahoo.com</email>
+	<mobile>9841621265</mobile>
+	<country>United Kingdom</country>
+	<gender>female</gender>
+	<hobbies>sports,movies,music</hobbies>
+</user>
+<user id = "5"> 
+	<name>Jassie</name>
+	<email>jazz@hotmail.com</email>
+	<mobile>9885652158</mobile>
+	<country>India</country>
+	<gender>male</gender>
+	<hobbies>movies,music</hobbies>
+</user>
+</class>
